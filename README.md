@@ -6,3 +6,6 @@ A new Flutter project.
 
 1. Creating Weight Scale where user can input part of body and it weight
 2. Planning to use Bloc pattern to handle logic of code separate form Ui.
+
+Outputs:
+![alt text](https://github.com/mkarush/scaleWeight/blob/main/outputs/lower_body.png)
